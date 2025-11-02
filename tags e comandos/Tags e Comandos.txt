@@ -1,0 +1,27 @@
+HTML
+! - Código-base
+<h1> - Título
+<p> - Parágrafo
+<hr> - Linha horizontal (não tem fechamento)
+\\\&lt; e \\\&gt; - Para colocar os símbolos <>
+<img> - Imagens
+<link> - Para favicon
+ou <strong> - Negrito
+ou  <em> - Itálico
+<mark> - Texto marcado
+<del> - Texto deletado
+<ins> - Texto inserido
+<u> - Texto sublinhado
+<sup> - Texto sobrescrito
+<sub> - texto subscrito
+<abbr> - Abreviações
+***<ol> - Listas ordenadas (<li> para elemento)
+<ul> - Listas não ordenadas
+<a> - Links
+<picture> - Midias (<source> para tamanhos diferentes)
+<audio> - Áudios (controls display)
+<video> - Vídeos***
+<iframe> vídeo externo
+COMANDOS
+Ctrl + Shift + p = Envelopar
+Ctrl + Space = Inserir caminho da pasta
