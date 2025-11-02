@@ -49,6 +49,7 @@ header h1 {
 
 header p {
     padding: 10px 0px;
+    margin: 0;
 }
 
 .nav {
@@ -59,6 +60,8 @@ header p {
 nav {
     background-color: #063D1E;
     padding: 10px;
+    margin: auto;
+    max-height: 600px;
 }
 
 nav a:hover {
