@@ -77,6 +77,10 @@ main {
     max-width: 800px;
 }
 
+picture {
+    margin: auto;
+}
+
 img {
     display: block;
     margin: auto;
