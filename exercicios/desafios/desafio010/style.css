@@ -34,7 +34,7 @@ header {
     color: white;
     margin: 0;
     padding: 20px;
-    height: 200px;
+    height: auto;
 }
 
 header h1 {
@@ -48,7 +48,7 @@ header h1 {
 }
 
 header p {
-    padding: 10px;
+    padding: 10px 0px;
 }
 
 .nav {
