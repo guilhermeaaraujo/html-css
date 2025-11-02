@@ -45,7 +45,10 @@ header h1 {
 
 .header {
     text-align: center;
-    padding: 20px;
+}
+
+header p {
+    padding: 10px;
 }
 
 .nav {
